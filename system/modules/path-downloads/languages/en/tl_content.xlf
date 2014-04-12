@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/core/languages/en/default.php" source-language="en">
+        <body>
+            <trans-unit id="tl_content.singlePathSRC.0">
+                <source>Source file</source>
+            </trans-unit>
+            <trans-unit id="tl_content.singlePathSRC.1">
+                <source>Please select a file or folder from the files directory.</source>
+            </trans-unit>
+            <trans-unit id="tl_content.multiPathSRC.0">
+                <source>Source files</source>
+            </trans-unit>
+            <trans-unit id="tl_content.multiPathSRC.1">
+                <source>Please select one or more folders from the files directory. If you select a folder, its files will be included automatically.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
