@@ -2,7 +2,7 @@
 
 namespace PathDownload;
 
-class FileTree extends \Widget
+class PathFileTree extends \Widget
 {
 
     /**

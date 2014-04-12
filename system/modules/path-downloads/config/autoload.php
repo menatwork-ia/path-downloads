@@ -27,5 +27,5 @@ ClassLoader::addClasses(array
 (
     'PathDownload\ContentDownload'  => 'system/modules/path-downloads/ContentDownload.php',
     'PathDownload\ContentDownloads' => 'system/modules/path-downloads/ContentDownloads.php',
-    'PathDownload\FileTree'         => 'system/modules/path-downloads/FileTree.php',
+    'PathDownload\PathFileTree'     => 'system/modules/path-downloads/PathFileTree.php',
 ));

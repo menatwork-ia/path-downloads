@@ -10,4 +10,4 @@ $GLOBALS['TL_CTE']['files']['pathDownloads'] = 'PathDownload\ContentDownloads';
 /**
  * Form fields
  */
-$GLOBALS['BE_FFL']['pathFileTree'] = 'PathDownload\FileTree';
+$GLOBALS['BE_FFL']['pathFileTree'] = 'PathDownload\PathFileTree';
